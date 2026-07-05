@@ -33,7 +33,7 @@ SELECT * FROM ms_produk_dqlab;
 
 -- latihan mandiri
 SELECT kode_produk, nama_produk FROM ms_produk_dqlab;
-SELECT * FROM tr_penjualan_dqlab;
+SELECT * FROM pelanggan;
 
 -- PREFIX DAN ALIAS 
 -- prefix adalah objek database yang hirarkiya lebih tinggi
